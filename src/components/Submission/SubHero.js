@@ -21,7 +21,7 @@ const SubHero = () => {
               <h2>Guidelines to Authors</h2>
               <p>
                 Below are some useful instructions to assist the authors to
-                submit their papers for ICSTCEE 2023:
+                submit their papers for ICSTCEE 2025:
               </p>
             </div>
           </Fade>
@@ -30,7 +30,7 @@ const SubHero = () => {
             <div className="col-12 text-center">
               <h2>Paper Submission:</h2>
               <p>
-                Papers submitted to ICSTCEE 2023 shall contain original work by
+                Papers submitted to ICSTCEE 2025 shall contain original work by
                 the author(s) that have not been published or submitted for
                 publication elsewhere. The IEEE anti- plagiarism policy is
                 applicable to all submissions. The author(s) are solely
@@ -59,7 +59,7 @@ const SubHero = () => {
                 the submitted PDF ×le as subset fonts. Type 3 fonts (bitmaps)
                 will not be accepted. Authors can use the IEEE PDF express to
                 generate compliant PDF Files for final submission. The PDF
-                express details will be shared in the later stage
+                express details will be shared in the later stage.
               </p>
             </div>
           </Fade>
